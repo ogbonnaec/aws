@@ -1,0 +1,6 @@
+# logs and other files that does not need to be committed
+
+*.log
+.terraform/
+*.terraform
+*.terraform.*
